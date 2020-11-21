@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vk-coffee_decoder/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/vk-coffee_decoder/static/js/main.9f77943f.chunk.js",
+    "main.js.map": "/vk-coffee_decoder/static/js/main.9f77943f.chunk.js.map",
+    "runtime-main.js": "/vk-coffee_decoder/static/js/runtime-main.58a72a4e.js",
+    "runtime-main.js.map": "/vk-coffee_decoder/static/js/runtime-main.58a72a4e.js.map",
+    "static/js/2.6648164e.chunk.js": "/vk-coffee_decoder/static/js/2.6648164e.chunk.js",
+    "static/js/2.6648164e.chunk.js.map": "/vk-coffee_decoder/static/js/2.6648164e.chunk.js.map",
+    "index.html": "/vk-coffee_decoder/index.html",
+    "precache-manifest.00aa03f864937ba6af54a34f140848f5.js": "/vk-coffee_decoder/precache-manifest.00aa03f864937ba6af54a34f140848f5.js",
+    "service-worker.js": "/vk-coffee_decoder/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/vk-coffee_decoder/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.6648164e.chunk.js.LICENSE.txt": "/vk-coffee_decoder/static/js/2.6648164e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58a72a4e.js",
+    "static/js/2.6648164e.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.9f77943f.chunk.js"
+  ]
+}
